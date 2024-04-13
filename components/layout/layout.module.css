@@ -1,0 +1,12 @@
+.sidebarContainer {
+    background-color: #2d4a96 !important;
+}
+
+.sidebarTitle{
+    width: 100%;
+    font-size: 36px;
+    padding: 30px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: #fff;
+}

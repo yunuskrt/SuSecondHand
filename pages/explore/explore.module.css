@@ -1,0 +1,30 @@
+.exploreContainer{
+    display: flex; 
+    flex-direction: column; 
+    gap: 22px;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2d4a96;
+}
+
+.ui.icon.input {
+    width: 100% !important;
+}
+
+.categoryContainer{
+    display: flex;
+    gap: 10px;
+    margin-left: 3px;
+}
+.categoryLabel{
+    background-color: #2d4a96 !important;
+    color: #fff !important
+}
+
+.categoryLabel:hover{
+    background-color: #426bd1 !important;
+    cursor: pointer;
+}

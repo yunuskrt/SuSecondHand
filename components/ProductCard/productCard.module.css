@@ -1,0 +1,28 @@
+.extraContent{
+    display: flex;
+    justify-content: space-between;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+}
+.price{
+    font-weight: bold;
+    color: #2d4a96
+}
+
+.imageContainer {
+    width: 227px !important;
+    height: 200px !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+}
+
+.textContainer{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
