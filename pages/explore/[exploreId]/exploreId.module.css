@@ -1,0 +1,58 @@
+.productPageContainer{
+    background-color: #f6f6f6;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.productContainer{
+    height: 80%;
+    width: 95%;
+    display: flex;
+}
+
+.productImageWrapper{
+    width: 40%;
+    height: 100%;
+}
+
+.productContent{
+    width: 60%;
+    height: 100%;
+    background-color: #2e4a96;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+
+.title{
+    color: #eae3d2 !important;
+}
+.category{
+    background-color: #eae3d2 !important;
+}
+.description{
+    color: #eae3d2;
+    line-height: 30px;
+}
+.productBottom{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.price{
+    background-color: #eae3d2 !important;
+}
+.buyNowBtn{
+    background-color: #eae3d2 !important;
+}
+.imageContainer {
+    width: 100% !important;
+    height: 100% !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+}

@@ -48,7 +48,6 @@ const Layout = ({ app }) => {
 			</Sidebar>
 
 			<SidebarPusher>
-				{/* <Header toggleSidebar={toggleSidebar} /> */}
 				<Content>{app}</Content>
 			</SidebarPusher>
 		</SidebarPushable>
